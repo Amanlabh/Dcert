@@ -1,2 +1,3 @@
-# Dcert
-decentrelised digitial locker website buit on ICP (internet computer protocol).
+DeCert
+
+Store your documents and certificates securly on blockchain
